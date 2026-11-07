@@ -1,0 +1,177 @@
+
+{
+    "personal": {
+        "name": "Varsha noolvi",
+        "shortName": "varsha noolvi",
+        "role": "BCA Student | Aspiring Web Developer",
+        "profileImage": "https://tse4.mm.bing.net/th/id/OIP.-wEPx1Guw5H9a9FPm3oP6wHaJ3?r=0&pid=ImgDet&w=176&h=234&c=7&dpr=1.1&o=7&rm=3",
+        "introduction": "Hello! I am a passionate BCA first-year student interested in web development, programming and modern technologies. I enjoy creating attractive websites and learning new technical skills.",
+        "careerGoal": "My goal is to become a professional Full Stack Developer and build innovative digital solutions.",
+        "email": "jmnoolvi@klebcahubli.in",
+        "phone": "+91 9137202385",
+        "location": "Hubli,Karnataka, India",
+        "resume": "assets/resume.pdf"
+    },
+
+    "about": {
+        "heading": "Varsha Noolvi",
+        "subtitle": "Creative Learner & Future Software Developer",
+        "description": "I am currently pursuing my Bachelor of Computer Applications (BCA) in my first year. I have a strong interest in computer science, web development and software technologies. I enjoy learning HTML, CSS, JavaScript, Bootstrap and programming languages like C and C++. I believe in continuous learning, creativity and improving my technical abilities through practical projects.",
+        "objective": "To gain practical experience in software development, improve my problem-solving abilities and become a skilled developer who can contribute to innovative technology projects.",
+        "course": "Bachelor of Computer Applications (BCA)",
+        "semester": "First Year - Semester 1",
+        "location": "Hubli,Karnataka"
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi-filetype-html",
+            "level": 90,
+            "levelText": "Advanced Beginner"
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi-filetype-css",
+            "level": 85,
+            "levelText": "Intermediate"
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi-filetype-js",
+            "level": 65,
+            "levelText": "Learning"
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi-bootstrap",
+            "level": 80,
+            "levelText": "Intermediate"
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi-code-square",
+            "level": 70,
+            "levelText": "Learning"
+        },
+        {
+            "name": "C++",
+            "icon": "bi-braces",
+            "level": 65,
+            "levelText": "Learning"
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=900",
+            "description": "A modern and responsive personal portfolio website to showcase my profile, technical skills, education, projects and contact information.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Bootstrap 5",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "ShopZone E-Commerce Website",
+            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900",
+            "description": "An attractive online shopping website featuring product cards, product categories, search functionality and a shopping cart.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "JSON"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Management System",
+            "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=900",
+            "description": "A simple student management interface designed to organize student details, academic information and records.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Bootstrap"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator Application",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=900",
+            "description": "A simple and user-friendly calculator application that performs basic arithmetic operations using JavaScript.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "year": "2026 - Present",
+            "course": "Bachelor of Computer Applications (BCA)",
+            "college": "PC jabin BCA college",
+            "details": "First Year | Semester 1",
+            "result": "Currently Pursuing"
+        },
+        {
+            "year": "2024 - 2026",
+            "course": "Higher Secondary Education (12th)",
+            "college": "Kle College of commerce",
+            "details": "Higher Secondary Certificate",
+            "result": "Replace with your actual percentage"
+        },
+        {
+            "year": "2024",
+            "course": "Secondary School Education (10th)",
+            "college": "Evershine English High School",
+            "details": "Secondary School Certificate",
+            "result": "Replace with your actual percentage"
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "HTML and CSS Fundamentals",
+            "issuer": "Online Learning Platform",
+            "year": "2026",
+            "description": "Introduction to website structure and styling.",
+            "link": ""
+        },
+        {
+            "name": "JavaScript for Beginners",
+            "issuer": "Online Learning Platform",
+            "year": "2026",
+            "description": "Fundamentals of JavaScript programming.",
+            "link": ""
+        },
+        {
+            "name": "Introduction to C Programming",
+            "issuer": "Online Learning Platform",
+            "year": "2026",
+            "description": "Basic programming concepts and problem solving.",
+            "link": ""
+        },
+        {
+            "name": "Web Development Workshop",
+            "issuer": "College Workshop",
+            "year": "2026",
+            "description": "Participation in a beginner web development workshop.",
+            "link": ""
+        }
+    ],
+
+    "social": {
+        "github": "https://github.com/",
+        "linkedin": "https://www.linkedin.com/",
+        "instagram": "https://www.instagram.com/",
+        "facebook": "https://www.facebook.com/",
+        "twitter": "https://x.com/"
+    }
+}
